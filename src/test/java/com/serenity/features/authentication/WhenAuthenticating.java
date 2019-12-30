@@ -15,7 +15,7 @@ public class WhenAuthenticating {
 
     @Managed
 
-    WebDriver browser;
+    WebDriver browser;//
 
     @Test
     public void shouldBeAbleToLogin(){
